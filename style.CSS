@@ -33,4 +33,5 @@ a {
 .principal{
 display: flex;
 flex-direction: column;
-}0
+align-items: center;
+}
